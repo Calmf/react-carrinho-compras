@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Introdução
 
 Projeto foi feito com: [Create React App](https://github.com/facebook/create-react-app).
+
+Siga os comandos abaixo para instalar e executar.
 
 OBS: Para selecionar qual carrinho deseja visualizar (produtos acima ou abaixo de R$ 10,00) foi criado um select no topo do carrinho.
 OBS2: Tive um certo problema ao visualizar a fonte na minha máquina, espero que esteja correta.
