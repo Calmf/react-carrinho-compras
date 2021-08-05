@@ -23,7 +23,7 @@ class App extends Component
 
   freeShipping(value)
   {
-    if(value<1000)
+    if(value>1000)
     {
       return (
         <div className="free-shipping">
